@@ -1,0 +1,22 @@
+{
+  "name": "a-cli-type-inference",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "A Cli Type Inference",
+  "keywords": [
+    "a",
+    "cli",
+    "type",
+    "inference"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/a-cli-type-inference",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-cli-type-inference.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-cli-type-inference/issues"
+  }
+}
