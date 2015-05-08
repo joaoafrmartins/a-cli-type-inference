@@ -18,5 +18,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-cli-type-inference/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
